@@ -1,7 +1,7 @@
 # Net-Scan
 Another Network Scanner with Mac Address
 
-#Dependencies
+# Dependencies
 ```bash
 pip install scapy 
 pip install argparse
